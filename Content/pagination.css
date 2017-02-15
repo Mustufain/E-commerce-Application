@@ -1,0 +1,63 @@
+﻿.pages
+{
+    background-image:url(/images/navi_bg.png);
+    padding: 5px 10px;
+
+}
+.pages a:hover
+{
+    font-size: 20px;
+}
+
+.sorting a.selected
+{
+    background: black;
+    color: black;
+}
+.Previous
+{
+    margin-left: 180px;
+    margin-right: 80px;
+}
+.Next
+{
+    margin-left: 80px;
+}
+ul li
+{
+    list-style:none;
+}
+a.prevprod
+{
+    background-image: url(/images/left.gif);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 0px 20px 0px 15px;
+    color: #000;
+    height: 12px;
+}
+a.prevprod:hover
+{
+    text-decoration: underline;
+}
+
+a.nextprod
+{
+	background-image:url(/images/right.gif);
+	background-repeat:no-repeat;
+	background-position:right;
+	padding:0px 20px 0px 15px;
+	color:#000;
+	eight: 12px;
+
+}
+a.nextprod:h: hover
+{
+    text-decoration: underline;
+}
+
+.mainUL
+{
+        margin-top: 10px;
+}
+

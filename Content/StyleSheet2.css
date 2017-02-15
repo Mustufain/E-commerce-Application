@@ -1,0 +1,53 @@
+﻿.content-box.no-pad {
+    padding: 0;
+}
+.common-tbl-threads {
+    width: 100%;
+    table-layout: fixed;
+}
+.icon-announcement {
+    background: url(../images/sprite-forums.png) no-repeat 0 -850px;
+}
+
+.common-tbl h2, .common-tbl h3, .common-tbl h4 {
+    margin-bottom: 3px;
+    font-size: 14px;
+    font-family: 'Segoe UI Semibold','Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+}
+
+h2 {
+    font-size: 18px;
+    color: #222;
+    margin: 0 0 13px 0;
+    font-weight: normal;
+    font-family: 'Segoe UI',Tahoma,Arial,Helvetica,sans-serif;
+    line-height: 1.4em;
+}
+ div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+content-box.no-pad .common-tbl td:first-child, .content-box.no-pad .common-tbl th:first-child {
+    text-align: left;
+}
+
+th, td {
+    text-align: left;
+}
+
+.common-tbl {
+    width: 100%;
+    margin-bottom: 25px;
+    color: #505050;
+}
+
+common-tbl.common-tbl-threads .col2 {
+    width: 10%;
+    text-align: right;
+}
